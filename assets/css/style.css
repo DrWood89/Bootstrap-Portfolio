@@ -1,0 +1,124 @@
+
+ .container-fluid {
+    width: 100%;
+    background-color: white;
+}
+
+#myNavbar {
+    border: #fff;
+}
+
+ .icon-bar { 
+    border: solid 1px black;
+    color: black;
+} 
+
+.navbar-brand {
+    background-color: teal;
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+.nametag {
+    color: white;
+}
+
+.link {
+    color: black;
+}
+
+.page-header {
+    font-size: 20px;
+    color: teal;
+    border-bottom: 2px gray;
+    background: white;
+}
+
+.title {
+    font-size: 20px;
+    color: teal;
+    margin-left: 5%;
+} 
+
+.panel-heading {
+    font-size: 40px;
+    color: teal;
+    margin-top: 15px;
+    background: white;
+    text-align: left;
+    padding: 10px;
+    /* border-bottom: solid 2px gray; */
+}
+
+.panel {
+    border: solid 2px #fff;
+}
+
+
+.container {
+    background: #fff;
+}
+
+.main-bio {
+    margin-bottom: 0px;
+    margin-top: -9px;
+    height: 60%;
+    width: auto;
+    background:#fff;
+    border-width: 1px;
+    border-color: white;
+
+}
+
+.thumbnail {
+    padding: 10px;
+    min-width: 33%;
+    
+}
+
+.bio {
+    padding-left: 10px;
+}
+
+.btn {
+background-color: teal;
+}
+
+.btntext {
+    color:white;
+}
+
+
+.panel-body { 
+    height: 75px;
+    margin-top: 0px;
+    border-top: solid 1px rgb(231, 228, 228);
+}
+
+.links {
+    align-items:center;
+    width: 100%;
+    margin-left: 2%;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+  #footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    background-color: black;
+    border-top: solid 10px teal;
+  }
+
+    .footer-block {
+    color: white;
+    text-align: center;
+    }
+
+
